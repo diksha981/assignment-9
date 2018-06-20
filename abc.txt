@@ -1,0 +1,7 @@
+Some of the common file handling operations are;
+
+Create file
+Delete file
+Read file
+Write file
+Change file permissions
